@@ -3,5 +3,3 @@ Hola, soy un fichero de prueba.
 Hago cambios en el archivo. 
 
 Esto es una prueba con Mac OS
-
-realizando pruebas de restauración de cópias
